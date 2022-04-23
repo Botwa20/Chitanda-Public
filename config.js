@@ -13,7 +13,7 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '805a6c3fa9', //Apikey Premium
 }
 global.Prefix = 'Multi'
-global.meki = '6285878313791'
+global.meki = '6285861152235'
 global.ownerNumber = '6285878313791'
 global.botname = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
 global.ownername = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
